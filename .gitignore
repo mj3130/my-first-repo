@@ -1,0 +1,14 @@
+# Ignore system files
+.bash_history
+.bashrc
+.profile
+.ssh/
+.cache/
+.landscape/
+.lesshst
+.motd_shown
+.sudo_as_admin_successful
+.tmux.conf.swp
+
+# Ignore repository inside Documents
+Documents/my-first-repo
